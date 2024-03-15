@@ -1,6 +1,6 @@
-GroundStudio Jade M1
+GroundStudio BMP280 module
 ====================================
-![JadeM1](https://github.com/GroundStudio/Jade_M1/assets/77836107/a749d6a3-8643-4140-8c8d-1e7e4f3687f9)
+![BMx280 module REV1 0 0](https://github.com/GroundStudio/BMP280_module/assets/77836107/54057962-acfc-4339-be3b-6fcf7e464a43)
 
 Get it from [ardushop.ro](https://ardushop.ro/ro/118-groundstudio)
 
@@ -8,13 +8,12 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 
 Description
 -------------------
-ATMEGA2560 based development board with 256kBytes of In-System Self-Programmable Flash program memory, 4kBytes EEPROM, 8kBytes Internal SRAM, 15 PWM Channels, 70 Digital Pins including 16 ADC Pins with 10 bit Resolution and HT42B534 for USB communication.
+The module integrates the BMP280 temperature and atmospheric pressure sensor that uses the I²C and SPI standards for communication so it can be easily used together with most existing development boards.
 
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio/Jade_M1/tree/main/Documentation) -- Pinout.
-* [/Hardware](https://github.com/GroundStudio/Jade_M1/tree/main/Hardware) -- Schematics, layout.
+* [/Hardware](https://github.com/GroundStudio/BMP280_module/tree/main/Hardware) -- Schematics, layout.
 
 Versions
 -------------------
